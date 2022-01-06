@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BigInt",
+        "repositoryURL": "https://github.com/attaswift/BigInt.git",
+        "state": {
+          "branch": null,
+          "revision": "0ed110f7555c34ff468e72e1686e59721f2b0da6",
+          "version": "5.3.0"
+        }
+      },
+      {
+        "package": "BIP39swift",
+        "repositoryURL": "https://github.com/mathwallet/BIP39swift",
+        "state": {
+          "branch": null,
+          "revision": "6e654c1fedac7dc3f01443d8bdf108ab6d50245d",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "CryptoSwift",
+        "repositoryURL": "https://github.com/krzyzanowskim/CryptoSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "4b0565384d3c4c588af09e660535b2c7c9bf5b39",
+          "version": "1.4.2"
+        }
+      },
+      {
+        "package": "Secp256k1Swift",
+        "repositoryURL": "https://github.com/mathwallet/Secp256k1Swift.git",
+        "state": {
+          "branch": null,
+          "revision": "6af502ed40abd2e909c5e8f9eded978e36a54735",
+          "version": "1.2.5"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
